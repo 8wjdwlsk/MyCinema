@@ -1,0 +1,405 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "기생충",
+      "description": "빈부 격차를 풍자하는 블랙코미디 가족 드라마.",
+      "poster": "https://image.cine21.com/resize/cine21/poster/2019/0528/15_09_56__5cecd0b4d4e0c[X280,400].jpg",
+      "genres": [
+        "드라마",
+        "범죄",
+        "스릴러",
+        "서스펜스"
+      ],
+      "year": 2019,
+      "rating": 8.8,
+      "duration": 132,
+      "trailer": "https://www.youtube.com/embed/jBdRhhSt3Bc",
+      "recommended": true,
+      "weather": [
+        "비",
+        "흐림"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "남산의 부장들",
+      "description": "1979년 대통령 암살 전야를 배경으로 한 정치 스릴러.",
+      "poster": "https://www.koreafilm.or.kr/upload/theaterInfo/fdb8ec2c-b8ff-4303-a774-9ed36bf83e7f.jpg",
+      "genres": [
+        "드라마",
+        "스릴러",
+        " 느와르"
+      ],
+      "year": 2020,
+      "rating": 8.2,
+      "duration": 113,
+      "trailer": "https://www.youtube.com/embed/TLMoFETC3Tk",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 3,
+      "title": "신과함께: 죄와 벌",
+      "description": "저승에서 펼쳐지는 환생 재판 판타지 액션.",
+      "poster": "https://image.cine21.com/resize/cine21/poster/2020/1230/16_23_22__5fec2aea2a33e[X280,400].jpg",
+      "genres": [
+        "판타지",
+        "액션",
+        "스릴러",
+        "드라마"
+      ],
+      "year": 2017,
+      "rating": 8.6,
+      "duration": 139,
+      "trailer": "https://www.youtube.com/embed/5O5PVvHTWRo",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 4,
+      "title": "센과 치히로의 행방불명",
+      "description": "신들의 세계에 갇힌 소녀의 성장 이야기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/b/bc/%EC%84%BC%EA%B3%BC_%EC%B9%98%ED%9E%88%EB%A1%9C%EC%9D%98_%ED%96%89%EB%B0%A9%EB%B6%88%EB%AA%85_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "애니메이션",
+        "모험",
+        "드라마"
+      ],
+      "year": 2001,
+      "rating": 8.8,
+      "duration": 125,
+      "trailer": "https://www.youtube.com/embed/lwrG3HQXTFw",
+      "weather": [
+        "맑음",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 5,
+      "title": "해리 포터와 마법사의 돌",
+      "description": "마법 세계로 들어간 소년의 모험.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/d/dd/%ED%95%B4%EB%A6%AC_%ED%8F%AC%ED%84%B0%EC%99%80_%EB%A7%88%EB%B2%95%EC%82%AC%EC%9D%98_%EB%8F%8C_%EC%98%81%ED%99%94.jpg",
+      "genres": [
+        "판타지",
+        "모험",
+        "액션"
+      ],
+      "year": 2001,
+      "rating": 8.5,
+      "duration": 152,
+      "trailer": "https://www.youtube.com/embed/dlSkyNLOncY",
+      "weather": [
+        "눈",
+        "흐림",
+        "맑음"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 6,
+      "title": "부산행",
+      "description": "좀비 바이러스가 퍼진 열차 안의 생존기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/thumb/f/fd/%EB%B6%80%EC%82%B0%ED%96%89.jpg/250px-%EB%B6%80%EC%82%B0%ED%96%89.jpg",
+      "genres": [
+        "스릴러",
+        "액션",
+        "드라마",
+        "공포"
+      ],
+      "year": 2016,
+      "rating": 8.3,
+      "duration": 118,
+      "trailer": "https://www.youtube.com/embed/UOTOjA0ngmk",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 7,
+      "title": "극한직업",
+      "description": "마약 수사를 하던 형사들이 치킨 장사를 시작한 코미디.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/c/cf/%EA%B7%B9%ED%95%9C%EC%A7%81%EC%97%85_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "코미디",
+        "범죄",
+        "액션",
+        "드라마"
+      ],
+      "year": 2019,
+      "rating": 8.5,
+      "duration": 111,
+      "trailer": "https://www.youtube.com/embed/BaIRaKXrLPk",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 8,
+      "title": "암살",
+      "description": "일제강점기를 배경으로 한 독립군 첩보 작전.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/e/e8/%EC%98%81%ED%99%94_%EC%95%94%EC%82%B4_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "액션",
+        "시대극",
+        "드라마"
+      ],
+      "year": 2015,
+      "rating": 8.8,
+      "duration": 140,
+      "trailer": "https://www.youtube.com/embed/RnGxpZ75zFU",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 9,
+      "title": "마더",
+      "description": "아들을 위해 진실을 파헤치는 엄마의 집념.",
+      "poster": "https://img1.yna.co.kr/etc/inner/KR/2009/06/02/AKR20090602201900005_01_i_P2.jpg",
+      "genres": [
+        "드라마",
+        "스릴러",
+        "범죄",
+        "서스펜스"
+      ],
+      "year": 2009,
+      "rating": 8.9,
+      "duration": 128,
+      "trailer": "https://www.youtube.com/embed/aq7ertCgCTc",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 10,
+      "title": "신세계",
+      "description": "언더커버 경찰과 조직 간의 숨막히는 두 얼굴.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/6/6b/%EC%98%81%ED%99%94_%EC%8B%A0%EC%84%B8%EA%B3%84_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "범죄",
+        "액션",
+        "느와르"
+      ],
+      "year": 2013,
+      "rating": 8.1,
+      "duration": 134,
+      "trailer": "https://www.youtube.com/embed/rvLMVcRkRfY",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 11,
+      "title": "인터스텔라",
+      "description": "지구를 구하기 위한 인류의 우주 항해.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/b/b7/%EC%9D%B8%ED%84%B0%EC%8A%A4%ED%85%94%EB%9D%BC.jpg",
+      "genres": [
+        "SF",
+        "드라마",
+        "모험"
+      ],
+      "year": 2014,
+      "rating": 8.8,
+      "duration": 169,
+      "trailer": "https://www.youtube.com/embed/d2VN6NNa9BE",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 12,
+      "title": "그랜드 부다페스트 호텔",
+      "description": "기묘하고 아름다운 호텔에서 벌어지는 이야기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/5/5a/%EA%B7%B8%EB%9E%9C%EB%93%9C%EB%B6%80%EB%8B%A4%ED%8E%98%EC%8A%A4%ED%8A%B8%ED%98%B8%ED%85%94_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "코미디",
+        "드라마",
+        "범죄"
+      ],
+      "year": 2014,
+      "rating": 8.2,
+      "duration": 99,
+      "trailer": "https://www.youtube.com/embed/bBrTTSlCzNk",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 13,
+      "title": "라라랜드",
+      "description": "꿈과 사랑 사이에서 방황하는 두 사람의 이야기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/8/8f/%EB%9D%BC%EB%9D%BC%EB%9E%9C%EB%93%9C_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "로맨스",
+        "뮤지컬",
+        "드라마"
+      ],
+      "year": 2016,
+      "rating": 8.4,
+      "duration": 128,
+      "trailer": "https://www.youtube.com/embed/Dt5hFexM5BI",
+      "weather": [
+        "맑음",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 14,
+      "title": "인셉션",
+      "description": "꿈속에서 벌어지는 다층 현실 속 범죄.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/1/1d/%EC%9D%B8%EC%85%89%EC%85%98.jpg",
+      "genres": [
+        "스릴러",
+        "SF",
+        "액션",
+        "모험"
+      ],
+      "year": 2010,
+      "rating": 8.8,
+      "duration": 148,
+      "trailer": "https://www.youtube.com/embed/EiFcZjhmFDA",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 15,
+      "title": "위플래쉬",
+      "description": "완벽을 향한 광적인 열정과 그 대가.",
+      "poster": "https://www.econovill.com/news/photo/201503/239415_28912_286.jpg",
+      "genres": [
+        "드라마",
+        "음악",
+        "스릴러"
+      ],
+      "year": 2014,
+      "rating": 8.4,
+      "duration": 107,
+      "trailer": "https://www.youtube.com/embed/Qsbu5Phz6u8",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 16,
+      "title": "룸",
+      "description": "감금된 공간에서 탈출한 모자의 새로운 시작.",
+      "poster": "https://mblogthumb-phinf.pstatic.net/20160113_177/fojesus_1452662293838lJ11B_JPEG/movie_image.jpg?type=w800",
+      "genres": [
+        "드라마",
+        "스릴러"
+      ],
+      "year": 2015,
+      "rating": 8.1,
+      "duration": 118,
+      "trailer": "https://www.youtube.com/embed/-_l1h7S2W2A",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 17,
+      "title": "문라이트",
+      "description": "자아를 찾아가는 소년의 성장기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/thumb/5/52/%EC%98%81%ED%99%94_%EB%AC%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8.jpg/250px-%EC%98%81%ED%99%94_%EB%AC%B8%EB%9D%BC%EC%9D%B4%ED%8A%B8.jpg",
+      "genres": [
+        "드라마"
+      ],
+      "year": 2016,
+      "rating": 8.4,
+      "duration": 111,
+      "trailer": "https://www.youtube.com/embed/DiXHjwFxnSQ",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 18,
+      "title": "더 페이버릿: 여왕의 여자",
+      "description": "궁정 내 권력과 사랑의 줄다리기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/%EB%8D%94%ED%8E%98%EC%9D%B4%EB%B2%84%EB%A6%BF%EC%97%AC%EC%99%95%EC%9D%98%EC%97%AC%EC%9E%90_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg/250px-%EB%8D%94%ED%8E%98%EC%9D%B4%EB%B2%84%EB%A6%BF%EC%97%AC%EC%99%95%EC%9D%98%EC%97%AC%EC%9E%90_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "드라마",
+        "시대극"
+      ],
+      "year": 2018,
+      "rating": 8.2,
+      "duration": 120,
+      "trailer": "http://youtube.com/embed/tJGnxGbddtc",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    },
+    {
+      "id": 19,
+      "title": "원스 어폰 어 타임 인 할리우드",
+      "description": "1969년 할리우드를 배경으로 한 배우와 스턴트맨의 이야기.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/thumb/d/d6/%EC%9B%90%EC%8A%A4_%EC%96%B4%ED%8F%B0_%EC%96%B4_%ED%83%80%EC%9E%84..._%EC%9D%B8_%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg/250px-%EC%9B%90%EC%8A%A4_%EC%96%B4%ED%8F%B0_%EC%96%B4_%ED%83%80%EC%9E%84..._%EC%9D%B8_%ED%95%A0%EB%A6%AC%EC%9A%B0%EB%93%9C_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "드라마",
+        "코미디"
+      ],
+      "year": 2019,
+      "rating": 8.1,
+      "duration": 161,
+      "trailer": "https://www.youtube.com/embed/LVYYkFSbDY0",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": false
+    },
+    {
+      "id": 20,
+      "title": "미드소마",
+      "description": "한여름에 벌어지는 이교도 의식 공포.",
+      "poster": "https://upload.wikimedia.org/wikipedia/ko/a/aa/%EB%AF%B8%EB%93%9C%EC%86%8C%EB%A7%88_%ED%8F%AC%EC%8A%A4%ED%84%B0.jpg",
+      "genres": [
+        "공포",
+        "스릴러"
+      ],
+      "year": 2019,
+      "rating": 8.5,
+      "duration": 148,
+      "trailer": "https://www.youtube.com/embed/x7YdavKwJoQ",
+      "weather": [
+        "비",
+        "흐림"
+      ],
+      "recommended": true
+    }
+  ]
+}

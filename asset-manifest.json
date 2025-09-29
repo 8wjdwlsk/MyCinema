@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/8wjdwlsk/MyCinema.git/static/css/main.a672e260.css",
+    "main.js": "/8wjdwlsk/MyCinema.git/static/js/main.246dca56.js",
+    "static/js/453.8b717727.chunk.js": "/8wjdwlsk/MyCinema.git/static/js/453.8b717727.chunk.js",
+    "static/media/cinema.png": "/8wjdwlsk/MyCinema.git/static/media/cinema.a758e56e9685f988f8e7.png",
+    "static/media/revicons.eot": "/8wjdwlsk/MyCinema.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/8wjdwlsk/MyCinema.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/8wjdwlsk/MyCinema.git/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/8wjdwlsk/MyCinema.git/index.html",
+    "main.a672e260.css.map": "/8wjdwlsk/MyCinema.git/static/css/main.a672e260.css.map",
+    "main.246dca56.js.map": "/8wjdwlsk/MyCinema.git/static/js/main.246dca56.js.map",
+    "453.8b717727.chunk.js.map": "/8wjdwlsk/MyCinema.git/static/js/453.8b717727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a672e260.css",
+    "static/js/main.246dca56.js"
+  ]
+}
