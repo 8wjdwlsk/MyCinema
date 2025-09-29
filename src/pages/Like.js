@@ -13,7 +13,7 @@ const Like = () => {
     // db.json에서 영화 데이터를 가져와서 찜한 영화만 필터
     const fetchMovies = async () => {
       try {
-        const res = await fetch("/db.json");
+        const res = await fetch(`${process.env.PUBLIC_URL}/db.json`);
         const data = await res.json();
         const favMovies = data.movies.filter(movie => storedMovies.includes(movie.id));
         setLikedMovies(favMovies);

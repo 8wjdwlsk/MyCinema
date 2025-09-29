@@ -10,7 +10,7 @@ const Genre = () => {
   const [showMoreGenres, setShowMoreGenres] = useState(false);
 
   useEffect(() => {
-    fetch("/db.json")
+    fetch(`${process.env.PUBLIC_URL}/db.json`)
       .then((res) => res.json())
       .then((data) => setMovies(data.movies || []))
       .catch((err) => console.error("db.json 로드 실패:", err));

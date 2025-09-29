@@ -15,7 +15,7 @@ const Recommend = () => {
       setLoading(true);
 
       try {
-        const res = await fetch('/db.json');
+        const res = await fetch(`${process.env.PUBLIC_URL}/db.json`);
         const data = await res.json();
         setMovies(data.movies);
 

@@ -16,7 +16,7 @@ const Home = () => {
     const [recs, setRecs] = useState([]);
 
     useEffect(() => {
-        fetch('/db.json')
+        fetch(`${process.env.PUBLIC_URL}/db.json`)
             .then((r) => r.json()) //요청한 데이터를 json형태로 바꿔줘
             .then((data) => {
                 //console.log("전체데이터:", data);
